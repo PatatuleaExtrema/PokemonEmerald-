@@ -884,7 +884,6 @@ enum __attribute__((packed)) Item
     ITEM_POKE_FLUTE = 724,
     ITEM_FAME_CHECKER = 725,
     ITEM_TEACHY_TV = 726,
-
     // Story Key Items
     ITEM_SS_TICKET = 727,
     ITEM_EON_TICKET = 728,
@@ -1051,6 +1050,7 @@ enum __attribute__((packed)) Item
     ITEM_BAXCALIBRITE = 871,
     ITEM_TATSUGIRINITE = 872,
     ITEM_GLIMMORANITE = 873,
+    ITEM_INFINITE_CANDY = 874,
 
     ITEMS_COUNT,
     ITEM_FIELD_ARROW = ITEMS_COUNT,
