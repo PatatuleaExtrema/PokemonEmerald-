@@ -46,6 +46,12 @@
 #include "constants/items.h"
 #include "constants/songs.h"
 #include "constants/map_types.h"
+#include "battle_pyramid.h" // For InBattlePyramid
+#include "union_room.h"     // For InUnionRoom
+#include "party_menu.h"     // For GoToBagMenuToGiveRareCandy and related
+
+void GoToBagMenuToGiveRareCandy(u8 taskId);
+
 
 static void SetUpItemUseCallback(u8);
 static void FieldCB_UseItemOnField(void);
@@ -1613,5 +1619,6 @@ void ItemUseOutOfBattle_TownMap(u8 taskId)
         DisplayDadsAdviceCannotUseItemMessage(taskId, gTasks[taskId].tUsingRegisteredKeyItem);
     }
 }
+
 
 #undef tUsingRegisteredKeyItem

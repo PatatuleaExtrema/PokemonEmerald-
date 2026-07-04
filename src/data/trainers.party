@@ -4793,68 +4793,130 @@ Name: ROXANNE
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
-Music: Female
-Items: Potion / Potion
+Music: Female 
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Tangela @ Leftovers  
+Ability: Regenerator  
+Level: 13   
+Bold Nature  
+IVs: 0 Atk  
+- Ancient Power  
+- Morning Sun  
+- Mega Drain  
+- Toxic  
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Grookey @ Grassy Seed  
+Ability: Grassy Surge  
+Level: 13   
+Adamant Nature  
+- Grassy Glide  
+- Thief  
+- Bullet Seed  
+- Attract  
 
-Nosepass @ Oran Berry
-Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+Voltorb-Hisui @ Focus Sash  
+Ability: Static  
+Level: 13    
+Hasty Nature  
+- Charge Beam  
+- Thunder Wave  
+- Magical Leaf  
+- Self-Destruct  
+
+Swadloon @ Rocky Helmet  
+Ability: Overcoat  
+Level: 14  
+Careful Nature  
+- Protect  
+- Bug Bite  
+- Rain Dance  
+- Razor Leaf  
+
+Lombre @ Eviolite  
+Ability: Rain Dish  
+Level: 14  
+Bold Nature  
+- Fake Out  
+- Encore  
+- Knock Off  
+- Water Pulse  
+
+Roselia @ Black Sludge  
+Ability: Technician  
+Level: 15  
+Timid Nature  
+IVs: 0 Atk  
+- Magical Leaf  
+- Venoshock  
+- Leech Seed  
+- Weather Ball    
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
-Music: Male
-Items: Super Potion / Super Potion
+Music: Male 
 Double Battle: No
 AI: Basic Trainer
 
-Machop
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Raticate @ Clear Amulet  
+Ability: Hustle  
+Level: 23    
+Jolly Nature  
+- Facade  
+- Quick Attack  
+- U-turn  
+- Super Fang  
 
-Meditite
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
+Chansey @ Eviolite  
+Ability: Natural Cure  
+Level: 23   
+Impish Nature  
+IVs: 0 Atk  
+- Counter  
+- Soft-Boiled  
+- Seismic Toss  
+- Stealth Rock  
 
-Makuhita @ Sitrus Berry
-Level: 19
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
+Indeedee @ Expert Belt  
+Ability: Psychic Surge  
+Level: 23   
+Timid Nature  
+- Round  
+- Draining Kiss  
+- Fake Out  
+- Terrain Pulse  
+
+Wigglytuff @ Metronome  
+Ability: Competitive  
+Level: 24    
+Modest Nature  
+IVs: 0 Atk  
+- Draining Kiss  
+- Echoed Voice  
+- Charge Beam  
+- Stored Power  
+
+Maushold-Four @ Wide Lens  
+Ability: Technician  
+Level: 24   
+Adamant Nature  
+- Population Bomb  
+- Super Fang  
+- Encore  
+- Trailblaze  
+
+Lopunny @ Muscle Band  
+Ability: Scrappy  
+Level: 25    
+Adamant Nature  
+- Fake Out  
+- Facade  
+- Drain Punch  
+- Quick Attack  
 
 === TRAINER_WATTSON_1 ===
 Name: WATTSON
@@ -4862,41 +4924,71 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
 Double Battle: No
 AI: Basic Trainer
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Torkoal @ Heat Rock  
+Ability: Drought  
+Level: 33  
+Tera Type: Fire  
+Relaxed Nature  
+IVs: 0 Atk  
+- Body Press  
+- Lava Plume  
+- Stealth Rock  
+- Will-O-Wisp  
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Simisear @ Expert Belt  
+Ability: Pure Power  
+Level: 33  
+Tera Type: Fire  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Pledge  
+- Grass Knot  
+- Yawn  
+- Toxic  
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Arcanine-Hisui @ Air Balloon  
+Ability: Intimidate  
+Level: 33  
+Tera Type: Fire  
+Adamant Nature  
+- Extreme Speed  
+- Rock Slide  
+- Temper Flare  
+- Iron Head  
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Oricorio @ Charti Berry  
+Ability: Dancer  
+Level: 34  
+Tera Type: Fire  
+Modest Nature  
+- Revelation Dance  
+- Tailwind  
+- Air Slash  
+- U-turn  
+
+Tauros-Paldea-Blaze @ Liechi Berry  
+Ability: Cud Chew  
+Level: 34  
+Tera Type: Fighting  
+Jolly Nature  
+- Body Press  
+- Raging Bull  
+- Drill Run  
+- Trailblaze  
+
+Houndoom @ Houndoominite  
+Ability: Unnerve  
+Level: 35  
+Tera Type: Dark  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Shadow Ball  
+- Flamethrower  
+- Nasty Plot    
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -4904,41 +4996,64 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Quaquaval @ Salac Berry  
+Ability: Moxie  
+Level: 43   
+Jolly Nature  
+- Aqua Step  
+- Brick Break  
+- Aqua Jet  
+- Ice Spinner  
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Medicham @ Life Orb  
+Ability: Huge Power  
+Level: 43   
+Adamant Nature  
+- Zen Headbutt  
+- Close Combat  
+- Recover  
+- Thunder Punch  
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Annihilape @ Leftovers  
+Ability: Defiant  
+Level: 43    
+Careful Nature  
+- Bulk Up  
+- Drain Punch  
+- Encore  
+- Rage Fist  
 
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Lucario @ Choice Specs  
+Ability: Inner Focus  
+Level: 44   
+Timid Nature  
+IVs: 0 Atk  
+- Vacuum Wave  
+- Aura Sphere  
+- Flash Cannon  
+- Psychic  
+
+Sneasler @ White Herb  
+Ability: Unburden  
+Level: 44  
+Tera Type: Dark
+Adamant Nature  
+- Close Combat  
+- Fake Out  
+- Dire Claw  
+- Swords Dance  
+
+Gallade @ Galladite  
+Ability: Sharpness  
+Level: 45    
+Jolly Nature  
+- Aqua Cutter  
+- Psycho Cut  
+- Sacred Sword  
+- Swords Dance  
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -4946,41 +5061,68 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Spinda
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+Dragapult @ Light Clay  
+Ability: Infiltrator  
+Level: 53    
+Timid Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Reflect  
+- Draco Meteor  
+- Thunder Wave  
 
-Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+Basculegion-F @ Choice Specs  
+Ability: Adaptability  
+Level: 53    
+Modest Nature  
+- Flip Turn  
+- Ice Beam  
+- Surf  
+- Shadow Ball  
 
-Linoone
-Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+Typhlosion-Hisui @ Choice Scarf  
+Ability: Adaptability  
+Level: 53  
+Tera Type: Fire  
+Modest Nature  
+IVs: 0 Atk  
+- Eruption  
+- Flamethrower  
+- Shadow Ball  
+- Focus Blast  
 
-Slaking @ Sitrus Berry
-Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Zoroark-Hisui @ Focus Sash  
+Ability: Illusion  
+Level: 54   
+Timid Nature  
+IVs: 0 Atk  
+- Bitter Malice  
+- Focus Blast  
+- Taunt  
+- Foul Play  
+
+Flutter Mane @ Ghostium Z  
+Ability: Protosynthesis  
+Level: 54    
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunderbolt  
+- Shadow Ball  
+- Psyshock  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+Level: 55   
+Modest Nature  
+IVs: 0 Atk  
+- Perish Song  
+- Destiny Bond  
+- Shadow Ball  
+- Sludge Wave  
 
 === TRAINER_WINONA_1 ===
 Name: WINONA
@@ -4988,49 +5130,63 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Risky
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Vanilluxe @ Icy Rock  
+Ability: Snow Warning  
+Level: 63    
+Quiet Nature  
+- Aurora Veil  
+- Blizzard  
+- Ice Shard  
+- Explosion  
 
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
+Darmanitan-Galar @ Choice Band  
+Ability: Gorilla Tactics  
+Level: 63    
+Jolly Nature  
+- U-turn  
+- Ice Punch  
+- Flare Blitz  
+- Earthquake  
 
-Pelipper
-Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+Cloyster @ White Herb  
+Ability: Skill Link  
+Level: 63    
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Ice Shard  
+- Liquidation  
 
-Skarmory
-Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+Castform @ Icium Z  
+Ability: Forecast  
+Level: 64    
+Modest Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Flamethrower  
+- Thunderbolt  
+- Scald  
 
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Glastrier @ Leftovers  
+Ability: Chilling Neigh  
+Level: 64  
+Tera Type: Fighting  
+- Avalanche  
+- Body Press  
+- High Horsepower  
+- Protect  
+
+Glalie @ Glalitite  
+Ability: Ice Body  
+Level: 65    
+Jolly Nature  
+- Return  
+- Earthquake  
+- Super Fang  
+- Stone Edge  
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -5038,41 +5194,64 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Basic Trainer
 
-Claydol
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+Tyranitar @ Smooth Rock  
+Ability: Sand Stream  
+Level: 73   
+Adamant Nature  
+- Knock Off  
+- Stone Edge  
+- Earthquake  
+- Body Press  
 
-Xatu
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Clodsire @ Black Sludge  
+Ability: Water Absorb  
+Level: 73    
+Impish Nature  
+- Toxic Spikes  
+- Earthquake  
+- Stealth Rock  
+- Protect  
 
-Lunatone @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Psychic
-- Hypnosis
-- Calm Mind
+Nidoqueen @ Choice Specs  
+Ability: Sheer Force  
+Level: 73    
+Modest Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Thunderbolt  
+- Ice Beam  
+- Earth Power  
 
-Solrock @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Krookodile @ Choice Scarf  
+Ability: Moxie  
+Level: 74    
+Adamant Nature  
+- Earthquake  
+- Crunch  
+- Stone Edge  
+- Dragon Claw  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+Level: 74  
+Tera Type: Steel  
+Jolly Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Extreme Speed  
+- Thousand Arrows  
+
+Swampert-Mega @ Swampertite  
+Ability: Damp  
+Level: 75    
+Adamant Nature  
+- Earthquake  
+- Aqua Tail  
+- Flip Turn  
+- Ice Punch  
 
 === TRAINER_JUAN_1 ===
 Name: JUAN
@@ -5080,49 +5259,61 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
-Luvdisc
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Morpeko @ Life Orb  
+Ability: Hunger Switch  
+Level: 83    
+Jolly Nature  
+- Aura Wheel  
+- Fake Out  
+- Protect  
+- Volt Switch  
 
-Whiscash
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Kingambit @ Assault Vest  
+Ability: Supreme Overlord  
+Level: 83   
+- Kowtow Cleave  
+- Iron Head  
+- Brick Break  
+- Sucker Punch  
 
-Sealeo
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
+Muk-Alola @ Black Sludge  
+Ability: Toxic Debris  
+Level: 83    
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Poison Jab  
+- Taunt  
 
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
+Incineroar @ Incinium Z  
+Ability: Intimidate  
+Level: 84    
+Adamant Nature  
+- Darkest Lariat  
+- Fake Out  
+- Parting Shot  
+- Knock Off  
 
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Urshifu @ Choice Scarf  
+Ability: Unseen Fist  
+Level: 84   
+Adamant Nature  
+- Close Combat  
+- Poison Jab  
+- Wicked Blow  
+- U-turn  
+
+Absol @ Absolite  
+Ability: Super Luck  
+Level: 85    
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Play Rough  
+- Taunt  
 
 === TRAINER_JERRY_1 ===
 Name: JERRY

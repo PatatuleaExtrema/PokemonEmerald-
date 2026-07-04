@@ -620,7 +620,6 @@ const struct Item gItemsInfo[] =
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
         .battleUsage = EFFECT_ITEM_RESTORE_HP,
-        .effect = gItemEffect_Potion,
         .flingPower = 30,
         .iconPic = gItemIcon_Potion,
         .iconPalette = gItemIconPalette_Potion,
@@ -2119,6 +2118,7 @@ const struct Item gItemsInfo[] =
         .flingPower = 30,
         .iconPic = gItemIcon_Flute,
         .iconPalette = gItemIconPalette_BlackFlute,
+        
     },
 
     [ITEM_WHITE_FLUTE] =
@@ -12540,6 +12540,23 @@ const struct Item gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
         .iconPic = gItemIcon_TeachyTV,
         .iconPalette = gItemIconPalette_TeachyTV,
+    },
+
+    [ITEM_INFINITE_CANDY] =
+    {
+        .name = _("Infinite Candy"),
+        .price = 0,
+        .description = COMPOUND_STRING(
+            "Raises the level\n"
+            "of your Pokémon\n"
+            "by one."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
+        .effect = gItemEffect_RareCandy,
+        .iconPic = gItemIcon_RareCandy,
+        .iconPalette = gItemIconPalette_RareCandy,
     },
 
 // Story Key Items
